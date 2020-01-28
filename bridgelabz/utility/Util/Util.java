@@ -290,10 +290,26 @@ public static int flip(int flip) {
 				}
 			
 			}
-			public static String readString() {
-				// TODO Auto-generated method stub
-				return null;
-			}
+			private static final Scanner sc1=new Scanner(System.in);
+			 public static int readInteger() {     //Scanner object to input Integer 
+				return sc1.nextInt();
+				 
+			 }
+			 public static double readDouble() {    //Scanner object to input double// 
+				 return sc1.nextDouble();
+			 }
+			 public static long readLong() {         //Scanner object to input long//
+				 return sc1.nextLong();
+				 
+			 }
+			 public static float readFloat() {      //Scanner object to input float//
+				 return sc1.nextFloat();
+			 }
+			 public static String readString() {    //Scanner object to input String//
+				 return sc1.nextLine();
+			 }
+
+			
 
 
 
