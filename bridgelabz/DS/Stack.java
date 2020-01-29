@@ -1,4 +1,4 @@
-package com.bridgelabz.datastructures;
+package com.bridgelabz.DS;
 
 public class Stack {
 	 StackNode head; 

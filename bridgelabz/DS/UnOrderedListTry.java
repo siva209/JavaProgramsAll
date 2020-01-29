@@ -1,4 +1,4 @@
-package com.bridgelabz.datastructures;
+package com.bridgelabz.DS;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
